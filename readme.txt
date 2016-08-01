@@ -3,3 +3,4 @@ Git is free software distributed under the GPL
 Creating a new branch is quick.
 Creating a new branch is dev.
 Creating a new branch is comfi.
+Creating a new branch is comfidev.
