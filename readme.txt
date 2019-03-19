@@ -9,4 +9,3 @@ ttttttttttttttttttttttttttttttt
 rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 ttttttttttttttttttttttttttttttt
 777777777777777777777777777777
-不不不不不不不不不不不不不不不不不
